@@ -1,0 +1,117 @@
+[
+  {
+    "arxiv_id": "2307.01189v2",
+    "title": "Trainable Transformer in Transformer",
+    "authors": [
+      "Abhishek Panigrahi",
+      "Sadhika Malladi",
+      "Mengzhou Xia",
+      "Sanjeev Arora"
+    ],
+    "abstract": "Recent works attribute the capability of in-context learning (ICL) in large\npre-trained language models to implicitly simulating and fine-tuning an\ninternal model (e.g., linear or 2-layer MLP) during inference. However, such\nconstructions require large memory overhead, which makes simulation of more\nsophisticated internal models intractable. In this work, we propose an\nefficient construction, Transformer in Transformer (in short, TinT), that\nallows a transformer to simulate and fine-tune complex models internally during\ninference (e.g., pre-trained language models). In particular, we introduce\ninnovative approximation techniques that allow a TinT model with less than 2\nbillion parameters to simulate and fine-tune a 125 million parameter\ntransformer model within a single forward pass. TinT accommodates many common\ntransformer variants and its design ideas also improve the efficiency of past\ninstantiations of simple models inside transformers. We conduct end-to-end\nexperiments to validate the internal fine-tuning procedure of TinT on various\nlanguage modeling and downstream tasks. For example, even with a limited\none-step budget, we observe TinT for a OPT-125M model improves performance by\n4-16% absolute on average compared to OPT-125M. These findings suggest that\nlarge pre-trained language models are capable of performing intricate\nsubroutines. To facilitate further work, a modular and extensible codebase for\nTinT is included.",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "published": "2023-07-03T17:53:39Z",
+    "updated": "2024-02-08T16:19:14Z",
+    "abstract_stats": {
+      "total_words": 219,
+      "unique_words": 137,
+      "total_sentences": 13,
+      "avg_words_per_sentence": 16.85,
+      "avg_word_length": 5.47
+    }
+  },
+  {
+    "arxiv_id": "2301.13573v1",
+    "title": "Skill Decision Transformer",
+    "authors": [
+      "Shyam Sudhakaran",
+      "Sebastian Risi"
+    ],
+    "abstract": "Recent work has shown that Large Language Models (LLMs) can be incredibly\neffective for offline reinforcement learning (RL) by representing the\ntraditional RL problem as a sequence modelling problem (Chen et al., 2021;\nJanner et al., 2021). However many of these methods only optimize for high\nreturns, and may not extract much information from a diverse dataset of\ntrajectories. Generalized Decision Transformers (GDTs) (Furuta et al., 2021)\nhave shown that utilizing future trajectory information, in the form of\ninformation statistics, can help extract more information from offline\ntrajectory data. Building upon this, we propose Skill Decision Transformer\n(Skill DT). Skill DT draws inspiration from hindsight relabelling (Andrychowicz\net al., 2017) and skill discovery methods to discover a diverse set of\nprimitive behaviors, or skills. We show that Skill DT can not only perform\noffline state-marginal matching (SMM), but can discovery descriptive behaviors\nthat can be easily sampled. Furthermore, we show that through purely\nreward-free optimization, Skill DT is still competitive with supervised offline\nRL approaches on the D4RL benchmark. The code and videos can be found on our\nproject page: https://github.com/shyamsn97/skill-dt",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2023-01-31T11:52:46Z",
+    "updated": "2023-01-31T11:52:46Z",
+    "abstract_stats": {
+      "total_words": 188,
+      "unique_words": 123,
+      "total_sentences": 13,
+      "avg_words_per_sentence": 14.46,
+      "avg_word_length": 5.39
+    }
+  },
+  {
+    "arxiv_id": "2302.00049v3",
+    "title": "Transformers Meet Directed Graphs",
+    "authors": [
+      "Simon Geisler",
+      "Yujia Li",
+      "Daniel Mankowitz",
+      "Ali Taylan Cemgil",
+      "Stephan Günnemann",
+      "Cosmin Paduraru"
+    ],
+    "abstract": "Transformers were originally proposed as a sequence-to-sequence model for\ntext but have become vital for a wide range of modalities, including images,\naudio, video, and undirected graphs. However, transformers for directed graphs\nare a surprisingly underexplored topic, despite their applicability to\nubiquitous domains, including source code and logic circuits. In this work, we\npropose two direction- and structure-aware positional encodings for directed\ngraphs: (1) the eigenvectors of the Magnetic Laplacian - a direction-aware\ngeneralization of the combinatorial Laplacian; (2) directional random walk\nencodings. Empirically, we show that the extra directionality information is\nuseful in various downstream tasks, including correctness testing of sorting\nnetworks and source code understanding. Together with a data-flow-centric graph\nconstruction, our model outperforms the prior state of the art on the Open\nGraph Benchmark Code2 relatively by 14.7%.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2023-01-31T19:33:14Z",
+    "updated": "2023-08-31T14:38:57Z",
+    "abstract_stats": {
+      "total_words": 137,
+      "unique_words": 99,
+      "total_sentences": 6,
+      "avg_words_per_sentence": 22.83,
+      "avg_word_length": 5.81
+    }
+  },
+  {
+    "arxiv_id": "2311.01906v2",
+    "title": "Simplifying Transformer Blocks",
+    "authors": [
+      "Bobby He",
+      "Thomas Hofmann"
+    ],
+    "abstract": "A simple design recipe for deep Transformers is to compose identical building\nblocks. But standard transformer blocks are far from simple, interweaving\nattention and MLP sub-blocks with skip connections & normalisation layers in\nprecise arrangements. This complexity leads to brittle architectures, where\nseemingly minor changes can significantly reduce training speed, or render\nmodels untrainable.\n  In this work, we ask to what extent the standard transformer block can be\nsimplified? Combining signal propagation theory and empirical observations, we\nmotivate modifications that allow many block components to be removed with no\nloss of training speed, including skip connections, projection or value\nparameters, sequential sub-blocks and normalisation layers. In experiments on\nboth autoregressive decoder-only and BERT encoder-only models, our simplified\ntransformers emulate the per-update training speed and performance of standard\ntransformers, while enjoying 15% faster training throughput, and using 15%\nfewer parameters.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2023-11-03T13:30:52Z",
+    "updated": "2024-05-31T11:14:16Z",
+    "abstract_stats": {
+      "total_words": 143,
+      "unique_words": 100,
+      "total_sentences": 6,
+      "avg_words_per_sentence": 23.83,
+      "avg_word_length": 6.06
+    }
+  },
+  {
+    "arxiv_id": "2303.06147v2",
+    "title": "Exphormer: Sparse Transformers for Graphs",
+    "authors": [
+      "Hamed Shirzad",
+      "Ameya Velingker",
+      "Balaji Venkatachalam",
+      "Danica J. Sutherland",
+      "Ali Kemal Sinop"
+    ],
+    "abstract": "Graph transformers have emerged as a promising architecture for a variety of\ngraph learning and representation tasks. Despite their successes, though, it\nremains challenging to scale graph transformers to large graphs while\nmaintaining accuracy competitive with message-passing networks. In this paper,\nwe introduce Exphormer, a framework for building powerful and scalable graph\ntransformers. Exphormer consists of a sparse attention mechanism based on two\nmechanisms: virtual global nodes and expander graphs, whose mathematical\ncharacteristics, such as spectral expansion, pseduorandomness, and sparsity,\nyield graph transformers with complexity only linear in the size of the graph,\nwhile allowing us to prove desirable theoretical properties of the resulting\ntransformer models. We show that incorporating Exphormer into the\nrecently-proposed GraphGPS framework produces models with competitive empirical\nresults on a wide variety of graph datasets, including state-of-the-art results\non three datasets. We also show that Exphormer can scale to datasets on larger\ngraphs than shown in previous graph transformer architectures. Code can be\nfound at \\url{https://github.com/hamed1375/Exphormer}.",
+    "categories": [
+      "cs.LG"
+    ],
+    "published": "2023-03-10T18:59:57Z",
+    "updated": "2023-07-24T17:58:45Z",
+    "abstract_stats": {
+      "total_words": 170,
+      "unique_words": 111,
+      "total_sentences": 8,
+      "avg_words_per_sentence": 21.25,
+      "avg_word_length": 5.92
+    }
+  }
+]

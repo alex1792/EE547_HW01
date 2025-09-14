@@ -1,0 +1,74 @@
+[
+    {
+        "url": "http://httpbin.org/status/200",
+        "status_code": 200,
+        "response_time_ms": 349.9727249145508,
+        "content_length": 0,
+        "words_count": 0,
+        "timestamp": "2025-09-12T22:35:21+00:00Z",
+        "error": null
+    },
+    {
+        "url": "http://httpbin.org/delay/2",
+        "status_code": 200,
+        "response_time_ms": 2291.6207313537598,
+        "content_length": 326,
+        "words_count": null,
+        "timestamp": "2025-09-12T22:35:22+00:00Z",
+        "error": null
+    },
+    {
+        "url": "http://httpbin.org/status/404",
+        "status_code": 404,
+        "response_time_ms": 163.82241249084473,
+        "content_length": 0,
+        "word_count": 0,
+        "timestamp": "2025-09-12T22:35:24+00:00Z",
+        "error": "HTTP Error 404: NOT FOUND"
+    },
+    {
+        "url": "http://httpbin.org/json",
+        "status_code": 200,
+        "response_time_ms": 244.7946071624756,
+        "content_length": 429,
+        "words_count": null,
+        "timestamp": "2025-09-12T22:35:24+00:00Z",
+        "error": null
+    },
+    {
+        "url": "http://httpbin.org/html",
+        "status_code": 200,
+        "response_time_ms": 188.01045417785645,
+        "content_length": 3741,
+        "words_count": 617,
+        "timestamp": "2025-09-12T22:35:24+00:00Z",
+        "error": null
+    },
+    {
+        "url": "https://www.example.com",
+        "status_code": 200,
+        "response_time_ms": 189.9242401123047,
+        "content_length": 1256,
+        "words_count": 120,
+        "timestamp": "2025-09-12T22:35:25+00:00Z",
+        "error": null
+    },
+    {
+        "url": "http://httpbin.org/status/500",
+        "status_code": 500,
+        "response_time_ms": 289.4902229309082,
+        "content_length": 0,
+        "word_count": 0,
+        "timestamp": "2025-09-12T22:35:25+00:00Z",
+        "error": "HTTP Error 500: INTERNAL SERVER ERROR"
+    },
+    {
+        "url": "http://invalid.url.that.does.not.exist.com",
+        "status_code": 0,
+        "response_time_ms": 50.148725509643555,
+        "content_length": 0,
+        "word_count": null,
+        "timestamp": "2025-09-12T22:35:25+00:00Z",
+        "error": "<urlopen error [Errno -2] Name or service not known>"
+    }
+]

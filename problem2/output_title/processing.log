@@ -1,0 +1,26 @@
+[2025-09-13T02:25:26.944480Z] Starting ArXiv query: ti:transformer
+[2025-09-13T02:25:26.944480Z] Starting ArXiv query: ti:transformer
+[2025-09-13T02:25:27.148959Z] Fetched 10 results from ArXiv API
+[2025-09-13T02:25:27.148959Z] Fetched 10 results from ArXiv API
+[2025-09-13T02:25:27.148967Z] Processing paper: 2103.00112v3
+[2025-09-13T02:25:27.148967Z] Processing paper: 2103.00112v3
+[2025-09-13T02:25:27.148969Z] Processing paper: 2307.01189v2
+[2025-09-13T02:25:27.148969Z] Processing paper: 2307.01189v2
+[2025-09-13T02:25:27.148969Z] Processing paper: 9801033v2
+[2025-09-13T02:25:27.148969Z] Processing paper: 9801033v2
+[2025-09-13T02:25:27.148970Z] Processing paper: 0409265v1
+[2025-09-13T02:25:27.148970Z] Processing paper: 0409265v1
+[2025-09-13T02:25:27.148971Z] Processing paper: 1011.3947v2
+[2025-09-13T02:25:27.148971Z] Processing paper: 1011.3947v2
+[2025-09-13T02:25:27.148972Z] Processing paper: 1103.0156v5
+[2025-09-13T02:25:27.148972Z] Processing paper: 1103.0156v5
+[2025-09-13T02:25:27.148973Z] Processing paper: 1406.6512v1
+[2025-09-13T02:25:27.148973Z] Processing paper: 1406.6512v1
+[2025-09-13T02:25:27.148976Z] Processing paper: 1510.05025v1
+[2025-09-13T02:25:27.148976Z] Processing paper: 1510.05025v1
+[2025-09-13T02:25:27.148977Z] Processing paper: 1512.00795v2
+[2025-09-13T02:25:27.148977Z] Processing paper: 1512.00795v2
+[2025-09-13T02:25:27.148978Z] Processing paper: 1701.02110v2
+[2025-09-13T02:25:27.148978Z] Processing paper: 1701.02110v2
+[2025-09-13T02:25:27.154202Z] Completed processing: 10 papers in 0.01 seconds
+[2025-09-13T02:25:27.154202Z] Completed processing: 10 papers in 0.01 seconds

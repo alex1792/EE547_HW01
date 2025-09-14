@@ -1,0 +1,341 @@
+{
+  "query": "ti:transformer",
+  "papers_processed": 10,
+  "processing_timestamp": "2025-09-13T02:25:27.150389Z",
+  "corpus_stats": {
+    "total_abstracts": 10,
+    "total_words": 1398,
+    "unique_words_global": 605,
+    "avg_abstract_length": 139.8,
+    "longest_abstract_words": 310,
+    "shortest_abstract_words": 19
+  },
+  "top_50_words": [
+    {
+      "word": "models",
+      "frequency": 15,
+      "documents": 4
+    },
+    {
+      "word": "transformation",
+      "frequency": 14,
+      "documents": 5
+    },
+    {
+      "word": "transformer",
+      "frequency": 9,
+      "documents": 2
+    },
+    {
+      "word": "action",
+      "frequency": 9,
+      "documents": 1
+    },
+    {
+      "word": "model",
+      "frequency": 7,
+      "documents": 4
+    },
+    {
+      "word": "visual",
+      "frequency": 6,
+      "documents": 1
+    },
+    {
+      "word": "tint",
+      "frequency": 6,
+      "documents": 1
+    },
+    {
+      "word": "magnets",
+      "frequency": 6,
+      "documents": 1
+    },
+    {
+      "word": "fine",
+      "frequency": 5,
+      "documents": 2
+    },
+    {
+      "word": "paper",
+      "frequency": 5,
+      "documents": 4
+    },
+    {
+      "word": "group",
+      "frequency": 5,
+      "documents": 2
+    },
+    {
+      "word": "rotation",
+      "frequency": 5,
+      "documents": 1
+    },
+    {
+      "word": "boost",
+      "frequency": 5,
+      "documents": 1
+    },
+    {
+      "word": "conditional",
+      "frequency": 5,
+      "documents": 1
+    },
+    {
+      "word": "new",
+      "frequency": 4,
+      "documents": 3
+    },
+    {
+      "word": "local",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "patches",
+      "frequency": 4,
+      "documents": 1
+    },
+    {
+      "word": "representations",
+      "frequency": 4,
+      "documents": 3
+    },
+    {
+      "word": "language",
+      "frequency": 4,
+      "documents": 1
+    },
+    {
+      "word": "inference",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "quantum",
+      "frequency": 4,
+      "documents": 1
+    },
+    {
+      "word": "space",
+      "frequency": 4,
+      "documents": 3
+    },
+    {
+      "word": "transform",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "based",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "novel",
+      "frequency": 4,
+      "documents": 3
+    },
+    {
+      "word": "our",
+      "frequency": 4,
+      "documents": 2
+    },
+    {
+      "word": "architecture",
+      "frequency": 3,
+      "documents": 1
+    },
+    {
+      "word": "features",
+      "frequency": 3,
+      "documents": 1
+    },
+    {
+      "word": "attention",
+      "frequency": 3,
+      "documents": 1
+    },
+    {
+      "word": "transformers",
+      "frequency": 3,
+      "documents": 2
+    },
+    {
+      "word": "several",
+      "frequency": 3,
+      "documents": 2
+    },
+    {
+      "word": "their",
+      "frequency": 3,
+      "documents": 3
+    },
+    {
+      "word": "high",
+      "frequency": 3,
+      "documents": 2
+    },
+    {
+      "word": "performance",
+      "frequency": 3,
+      "documents": 3
+    },
+    {
+      "word": "tnt",
+      "frequency": 3,
+      "documents": 1
+    },
+    {
+      "word": "16",
+      "frequency": 3,
+      "documents": 2
+    },
+    {
+      "word": "words",
+      "frequency": 3,
+      "documents": 1
+    },
+    {
+      "word": "representation",
+      "frequency": 3,
+      "documents": 2
+    },
+    {
+      "word": "state",
+      "frequency": 3,
+      "documents": 2
+    },
+    {
+      "word": "available",
+      "frequency": 3,
+      "documents": 2
+    },
+    {
+      "word": "learning",
+      "frequency": 3,
+      "documents": 3
+    },
+    {
+      "word": "large",
+      "frequency": 3,
+      "documents": 1
+    },
+    {
+      "word": "pre",
+      "frequency": 3,
+      "documents": 1
+    },
+    {
+      "word": "trained",
+      "frequency": 3,
+      "documents": 1
+    },
+    {
+      "word": "internal",
+      "frequency": 3,
+      "documents": 1
+    },
+    {
+      "word": "however",
+      "frequency": 3,
+      "documents": 3
+    },
+    {
+      "word": "propose",
+      "frequency": 3,
+      "documents": 3
+    },
+    {
+      "word": "construction",
+      "frequency": 3,
+      "documents": 2
+    },
+    {
+      "word": "introduce",
+      "frequency": 3,
+      "documents": 3
+    },
+    {
+      "word": "allow",
+      "frequency": 3,
+      "documents": 3
+    }
+  ],
+  "technical_terms": {
+    "uppercase_terms": [
+      "ACT",
+      "CV",
+      "DC",
+      "GM",
+      "GV",
+      "ICL",
+      "ImageNet",
+      "JMLR",
+      "MLP",
+      "MindSpore",
+      "OPT",
+      "PyTorch",
+      "TNT",
+      "TinT"
+    ],
+    "numeric_terms": [
+      "1",
+      "125",
+      "125M",
+      "16",
+      "1D",
+      "2",
+      "2006",
+      "4",
+      "5",
+      "7",
+      "81",
+      "HMDB51",
+      "UCF101"
+    ],
+    "hyphenated_terms": [
+      "CV-Backbones",
+      "Fourier-Mukai",
+      "Hamilton-Jacobi",
+      "Littlewood-Paley",
+      "V-E",
+      "cross-category",
+      "end-to-end",
+      "fine-tune",
+      "fine-tuning",
+      "forest-type",
+      "form-invariant",
+      "high-level",
+      "huawei-noah",
+      "in-context",
+      "magneto-statics",
+      "model-based",
+      "non-relativistic",
+      "one-step",
+      "pre-trained",
+      "state-of-the-art"
+    ]
+  },
+  "category_distribution": {
+    "cs.CV": 2,
+    "cs.AI": 1,
+    "cs.CL": 1,
+    "cs.LG": 1,
+    "hep-th": 2,
+    "gr-qc": 1,
+    "quant-ph": 1,
+    "math.GR": 1,
+    "math.RA": 1,
+    "20N05, 20N99": 1,
+    "math.FA": 1,
+    "math.CV": 1,
+    "math.RT": 1,
+    "43A85, 32M99, 43A32, 46E10, 47A60, 47A67, 47C99, 81R30": 1,
+    "physics.gen-ph": 1,
+    "physics.class-ph": 1,
+    "math.AG": 1,
+    "stat.ME": 1,
+    "stat.ML": 1
+  }
+}

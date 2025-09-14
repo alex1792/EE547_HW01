@@ -1,0 +1,602 @@
+{
+  "processing_timestamp": "2025-09-13T03:27:09.443849+00:00",
+  "documents_processed": 2,
+  "total_words": 654,
+  "unique_words": 359,
+  "top_100_words": [
+    {
+      "word": "the",
+      "count": 35,
+      "frequency": 0.0535
+    },
+    {
+      "word": "and",
+      "count": 28,
+      "frequency": 0.0428
+    },
+    {
+      "word": "of",
+      "count": 22,
+      "frequency": 0.0336
+    },
+    {
+      "word": "to",
+      "count": 17,
+      "frequency": 0.026
+    },
+    {
+      "word": "in",
+      "count": 15,
+      "frequency": 0.0229
+    },
+    {
+      "word": "a",
+      "count": 15,
+      "frequency": 0.0229
+    },
+    {
+      "word": "his",
+      "count": 14,
+      "frequency": 0.0214
+    },
+    {
+      "word": "s",
+      "count": 10,
+      "frequency": 0.0153
+    },
+    {
+      "word": "had",
+      "count": 8,
+      "frequency": 0.0122
+    },
+    {
+      "word": "this",
+      "count": 7,
+      "frequency": 0.0107
+    },
+    {
+      "word": "for",
+      "count": 6,
+      "frequency": 0.0092
+    },
+    {
+      "word": "old",
+      "count": 6,
+      "frequency": 0.0092
+    },
+    {
+      "word": "blacksmith",
+      "count": 6,
+      "frequency": 0.0092
+    },
+    {
+      "word": "by",
+      "count": 6,
+      "frequency": 0.0092
+    },
+    {
+      "word": "he",
+      "count": 6,
+      "frequency": 0.0092
+    },
+    {
+      "word": "was",
+      "count": 6,
+      "frequency": 0.0092
+    },
+    {
+      "word": "that",
+      "count": 5,
+      "frequency": 0.0076
+    },
+    {
+      "word": "but",
+      "count": 5,
+      "frequency": 0.0076
+    },
+    {
+      "word": "it",
+      "count": 5,
+      "frequency": 0.0076
+    },
+    {
+      "word": "domain",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "now",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "be",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "not",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "an",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "no",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "so",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "came",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "one",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "with",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "her",
+      "count": 4,
+      "frequency": 0.0061
+    },
+    {
+      "word": "or",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "on",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "them",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "their",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "all",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "every",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "as",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "man",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "hammer",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "him",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "most",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "at",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "young",
+      "count": 3,
+      "frequency": 0.0046
+    },
+    {
+      "word": "example",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "use",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "himself",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "after",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "still",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "do",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "boat",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "toiled",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "patient",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "did",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "over",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "further",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "were",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "life",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "heavy",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "beating",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "heart",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "out",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "part",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "yet",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "grief",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "ruin",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "loving",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "wife",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "burglar",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "into",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "home",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "upon",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "up",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "stout",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "oh",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "woe",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "thou",
+      "count": 2,
+      "frequency": 0.0031
+    },
+    {
+      "word": "is",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "illustrative",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "examples",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "documents",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "you",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "may",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "literature",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "without",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "prior",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "coordination",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "asking",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "permission",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "more",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "information",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "herman",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "melville",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "moby",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "dick",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "availing",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "mild",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "summer",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "cool",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "weather",
+      "count": 1,
+      "frequency": 0.0015
+    },
+    {
+      "word": "reigned",
+      "count": 1,
+      "frequency": 0.0015
+    }
+  ],
+  "document_similarity": [
+    {
+      "doc1": "page_1.json",
+      "doc2": "page_3.json",
+      "similarity": 0.0111
+    }
+  ],
+  "top_bigrams": [
+    {
+      "bigram": "of the",
+      "count": 6
+    },
+    {
+      "bigram": "of his",
+      "count": 5
+    },
+    {
+      "bigram": "the blacksmith",
+      "count": 4
+    },
+    {
+      "bigram": "to the",
+      "count": 3
+    },
+    {
+      "bigram": "this old",
+      "count": 3
+    },
+    {
+      "bigram": "old man",
+      "count": 3
+    },
+    {
+      "bigram": "and so",
+      "count": 3
+    },
+    {
+      "bigram": "in a",
+      "count": 3
+    },
+    {
+      "bigram": "example domain",
+      "count": 2
+    },
+    {
+      "bigram": "this domain",
+      "count": 2
+    },
+    {
+      "bigram": "to be",
+      "count": 2
+    },
+    {
+      "bigram": "old blacksmith",
+      "count": 2
+    },
+    {
+      "bigram": "by the",
+      "count": 2
+    },
+    {
+      "bigram": "to do",
+      "count": 2
+    },
+    {
+      "bigram": "he toiled",
+      "count": 2
+    },
+    {
+      "bigram": "a patient",
+      "count": 2
+    },
+    {
+      "bigram": "and the",
+      "count": 2
+    },
+    {
+      "bigram": "the heavy",
+      "count": 2
+    },
+    {
+      "bigram": "heavy beating",
+      "count": 2
+    },
+    {
+      "bigram": "beating of",
+      "count": 2
+    }
+  ],
+  "readability": {
+    "avg_sentence_length": 26.16,
+    "avg_word_length": 4.63,
+    "complexity_score": 42.52
+  }
+}

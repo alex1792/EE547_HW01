@@ -1,0 +1,16 @@
+[2025-09-13T02:25:24.843093Z] Starting ArXiv query: cat:cs.LG
+[2025-09-13T02:25:24.843093Z] Starting ArXiv query: cat:cs.LG
+[2025-09-13T02:25:25.537905Z] Fetched 5 results from ArXiv API
+[2025-09-13T02:25:25.537905Z] Fetched 5 results from ArXiv API
+[2025-09-13T02:25:25.537949Z] Processing paper: 9905014v1
+[2025-09-13T02:25:25.537949Z] Processing paper: 9905014v1
+[2025-09-13T02:25:25.537953Z] Processing paper: 9905015v1
+[2025-09-13T02:25:25.537953Z] Processing paper: 9905015v1
+[2025-09-13T02:25:25.537956Z] Processing paper: 0001004v1
+[2025-09-13T02:25:25.537956Z] Processing paper: 0001004v1
+[2025-09-13T02:25:25.537958Z] Processing paper: 0002006v1
+[2025-09-13T02:25:25.537958Z] Processing paper: 0002006v1
+[2025-09-13T02:25:25.537960Z] Processing paper: 0009001v3
+[2025-09-13T02:25:25.537960Z] Processing paper: 0009001v3
+[2025-09-13T02:25:25.548487Z] Completed processing: 5 papers in 0.01 seconds
+[2025-09-13T02:25:25.548487Z] Completed processing: 5 papers in 0.01 seconds

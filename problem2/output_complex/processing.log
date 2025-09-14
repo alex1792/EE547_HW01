@@ -1,0 +1,16 @@
+[2025-09-13T02:25:27.446564Z] Starting ArXiv query: cat:cs.LG AND ti:transformer AND submittedDate:[202301010000 TO 202312312359]
+[2025-09-13T02:25:27.446564Z] Starting ArXiv query: cat:cs.LG AND ti:transformer AND submittedDate:[202301010000 TO 202312312359]
+[2025-09-13T02:25:27.892479Z] Fetched 5 results from ArXiv API
+[2025-09-13T02:25:27.892479Z] Fetched 5 results from ArXiv API
+[2025-09-13T02:25:27.892497Z] Processing paper: 2307.01189v2
+[2025-09-13T02:25:27.892497Z] Processing paper: 2307.01189v2
+[2025-09-13T02:25:27.892501Z] Processing paper: 2301.13573v1
+[2025-09-13T02:25:27.892501Z] Processing paper: 2301.13573v1
+[2025-09-13T02:25:27.892504Z] Processing paper: 2302.00049v3
+[2025-09-13T02:25:27.892504Z] Processing paper: 2302.00049v3
+[2025-09-13T02:25:27.892507Z] Processing paper: 2311.01906v2
+[2025-09-13T02:25:27.892507Z] Processing paper: 2311.01906v2
+[2025-09-13T02:25:27.892510Z] Processing paper: 2303.06147v2
+[2025-09-13T02:25:27.892510Z] Processing paper: 2303.06147v2
+[2025-09-13T02:25:27.901852Z] Completed processing: 5 papers in 0.01 seconds
+[2025-09-13T02:25:27.901852Z] Completed processing: 5 papers in 0.01 seconds
